@@ -1,0 +1,14 @@
+Fontes:
+KNN Algorithm using Python | How KNN Algorithm works | Python Data Science Training | Edureka - https://www.youtube.com/watch?v=6kZ-OPLNcgE
+
+Develop k-Nearest Neighbors in Python From Scratch - https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/
+
+ALGORITMO KNN PARA CLASSIFICAÇÃO - https://inferir.com.br/artigos/algoritimo-knn-para-classificacao/
+
+sklearn.metrics.confusion_matrix - https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html
+
+k nearest neighbors - https://pythonspot.com/k-nearest-neighbors/
+
+The Iris Dataset    -	https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html
+
+k-Nearest-Neighbor Classifier	- https://www.python-course.eu/k_nearest_neighbor_classifier.php
